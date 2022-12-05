@@ -12,4 +12,4 @@ I'd like to attach a link to my portfolio, but I don't have one... So here is th
 
 ![And a nice summer pic](/camping.jpg)
 
-Thank you, Alena! :)
+## Thank you, Alena! :)
